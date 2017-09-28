@@ -26,7 +26,7 @@ a,img,button,input,textarea,div{-webkit-tap-highlight-color:rgba(255,255,255,0);
 .d_foot .colse{
   width: 13px;
   height: 13px;
-  background: url('https://github.com/Fuxiaoqin/Cutrope/blob/master/src/assets/img/colse.png') left top no-repeat;
+  background: url('img/colse.png') left top no-repeat;
   background-size: 100%;
   position: absolute;
   right: 7px;
@@ -52,7 +52,7 @@ a,img,button,input,textarea,div{-webkit-tap-highlight-color:rgba(255,255,255,0);
 .d_foot .left{
   width: 41px;
   height: 41px;
-  background:url('https://github.com/Fuxiaoqin/Cutrope/blob/master/src/assets/img/foot-logo.png') left top no-repeat;
+  background:url('img/foot-logo.png') left top no-repeat;
   background-size: 100%;
   float:left;
   margin-right: 7px;
@@ -95,7 +95,7 @@ a,img,button,input,textarea,div{-webkit-tap-highlight-color:rgba(255,255,255,0);
 .stressing span{
   width: 100px;
   height: 120px;
-  background: url('https://github.com/Fuxiaoqin/Cutrope/blob/master/src/assets/img/zx-loading.gif') left top no-repeat;
+  background: url('img/zx-loading.gif') left top no-repeat;
   background-size: 100px;
   position: absolute;
   left: 50%;
