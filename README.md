@@ -1,2 +1,4 @@
-# Cutrope
-H5,Css3,Javascript,Jquery,Vue实现移动端割绳子游戏.
+
+
+## 联系方式
+- `Email`：xiaoqinfu@sina.com
