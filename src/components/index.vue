@@ -331,7 +331,7 @@
         background: #CBF4FA;
     }
     header{
-        background: url('./../assets/img/title.png') left top no-repeat;
+        background: url('https://github.com/Fuxiaoqin/Cutrope/blob/master/src/assets/img/title.png') left top no-repeat;
         background-size:100% 100%;
         width:100%;
         height:12rem;
@@ -340,7 +340,7 @@
         z-index: 4;
     }
     section{
-        background: url('./../assets/img/bg.png') left top no-repeat;
+        background: url('https://github.com/Fuxiaoqin/Cutrope/blob/master/src/assets/img/bg.png') left top no-repeat;
         background-size:100% 100%;
         width:100%;
         height:26rem;
@@ -353,7 +353,7 @@
         width: 8rem;
         height: 1.5rem;
         line-height: 1.5rem;
-        background: url('./../assets/img/span.png') left top no-repeat;
+        background: url('https://github.com/Fuxiaoqin/Cutrope/blob/master/src/assets/img/span.png') left top no-repeat;
         font-size: 0.9rem;
         background-size: 100% 100%;
         position: absolute;
@@ -377,7 +377,7 @@
         color:#fff;
     }
     aside{
-        background: url('./../assets/img/gift.png') left top no-repeat;
+        background: url('https://github.com/Fuxiaoqin/Cutrope/blob/master/src/assets/img/gift.png') left top no-repeat;
         font-size: 0.9rem;
         background-size: 100%;
         width:6rem;
@@ -390,7 +390,7 @@
         /*animation:sroll5 2s linear 1;*/
     }
     .finger{
-        background: url('./../assets/img/finger.png') left top no-repeat;
+        background: url('https://github.com/Fuxiaoqin/Cutrope/blob/master/src/assets/img/finger.png') left top no-repeat;
         font-size: 0.9rem;
         background-size: 100%;
         width:6rem;
@@ -554,11 +554,11 @@
         position: absolute;
         z-index: 2;
         top:0;
-        background: url('./../assets/img/rule.png') left top no-repeat;
+        background: url('https://github.com/Fuxiaoqin/Cutrope/blob/master/src/assets/img/rule.png') left top no-repeat;
         background-size: 100%;
     }
     .close{
-        background: url('./../assets/img/close.png') left top no-repeat;
+        background: url('https://github.com/Fuxiaoqin/Cutrope/blob/master/src/assets/img/close.png') left top no-repeat;
         background-size: 100%;
         width: 2.2rem;
         height: 5.2rem;
@@ -611,7 +611,7 @@
         z-index: 6;
     }
     .shareShadow{
-        background: url('./../assets/img/arrow.png') center center no-repeat;
+        background: url('https://github.com/Fuxiaoqin/Cutrope/blob/master/src/assets/img/arrow.png') center center no-repeat;
         background-size: 100% 100%;
         width: 100%;
         height: 25rem;
