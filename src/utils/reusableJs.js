@@ -37,7 +37,7 @@ export var json = {
 
 export function init(){
 	if( UA.indexOf('iPhone') != -1 || UA.indexOf('iPad') != -1 ){
-        $('.copyright').html('※活动最终解释权归好享瘦APP所有 本活动与苹果公司无关');
+        $('.copyright').html('※活动最终解释权归XXXAPP所有 本活动与苹果公司无关');
 	}
 
     if($_GET('shareType')==1){
@@ -47,7 +47,7 @@ export function init(){
                     '<div class="d_foot_bg"></div>',
                     '<div class="d_foot_main">',
                       '<div class="left"></div>',
-                      '<div class="text">好享瘦,专业瘦</div>',
+                      '<div class="text">XXX,专业瘦</div>',
                       '<a href="javascript:;">下载APP</a>',
                     '</div>',
                     '<div class="share-img"></div>',
@@ -82,7 +82,7 @@ export function shareFun(data){
 
     //qq分享
     $('#qqShareContent').attr('content',decodeURIComponent(shareTitle));
-    $('#qqShareDes').attr('content','好享瘦APP  专享福利');
+    $('#qqShareDes').attr('content','XXXAPP  专享福利');
     $('#qqShareImg').attr('content',shareImages); 
     //分享方法
     wxSecShare(shareTitle,shareDescr,shareLink,shareImages);

@@ -181,7 +181,7 @@ function setHover(seletor, sClass, target) {
  * Copyright 2013 Klaus Hartl
  * Released under the MIT license
  */
-//  //判断好享瘦版本
+//  //判断XXX版本
 // var UserAgent = window.navigator.userAgent;
 // function myUserAgent(fn, state){
 //     var hxsVersion = '';
@@ -193,7 +193,7 @@ function setHover(seletor, sClass, target) {
 //       fn(hxsVersion);
 //     }
 // }
- //判断好享瘦版本
+ //判断XXX版本
 export var UserAgent = window.navigator.userAgent;
 export function myUserAgent(fn, state){
     // if(UserAgent){

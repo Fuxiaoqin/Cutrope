@@ -5,7 +5,7 @@
 
 ## 开发说明：
 ### 一、本demo使用技术栈
-    1.H5：支持移动端、PC端
+    1.H5：仅支持移动端
     2.css：使用css3高级动画，animate.css框架动画
     3.Javascript：ES5语法
     4.jQuery: 选择器、循环API
